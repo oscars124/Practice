@@ -20,7 +20,7 @@ public class Main {
         int c = isabel.sum();
         System.out.print("isabel.sum = " + c);
 
-        Practice argelia = new Practice(1,2);
+        Practice argelia = new Practice(12,14);
         int d = argelia.sum();
         System.out.print("argelia.sum = " + d);
     }
