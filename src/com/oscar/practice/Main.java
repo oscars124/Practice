@@ -15,5 +15,9 @@ public class Main {
         Practice carlos = new Practice(5,6);
         int b = carlos.sum();
         System.out.print("Carlos.sum = " + b);
+
+        Practice isabel = new Practice(7,8);
+        int c = isabel.sum();
+        System.out.print("isabel.sum = " + c);
     }
 }
